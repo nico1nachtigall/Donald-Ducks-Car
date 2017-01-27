@@ -1,7 +1,7 @@
 # Donald Duck's 313 Car
 
 Donald Duck's 313 car re-builded with Lego bricks.
-This is an adaption of lego ideas project !["Donald Duck's Car - The 313"](https://ideas.lego.com/projects/140859)
+This is an adaption of lego ideas project ["Donald Duck's Car - The 313"](https://ideas.lego.com/projects/140859)
 
 ## Build Instruction
 
